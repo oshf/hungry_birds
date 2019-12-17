@@ -4,6 +4,12 @@ A small Nintendo Game Boy game created in 48 hours for the ZGBJAM2 game jam. Mad
 
 ![Title Screen img](res/screenshots/title.png) ![Gameplay img](res/screenshots/gameplay1.png) ![Gameplay img](res/screenshots/gameplay2.png) ![Game Over img](res/screenshots/gameover.png) 
 
-Download the Game Boy ROM file [here](bin/HungryBirds.gb).
+You control three chicks using the A (worth 3 points), B (worth 2 points), and UP (worth 1 point) buttons. Help the hungry chicks devour worms thrown by mother bird while avoiding the rocks.
 
-Read more about the game [here](https://oshf.itch.io/hungry-birds).
+![worm](https://img.itch.zone/aW1nLzIzMjEyODAucG5n/original/Yj3lLb.png)=GOOD
+
+![rock](https://img.itch.zone/aW1nLzIzMjEyODIucG5n/original/DKkSRr.png)=BAD
+
+Be careful as the speed of the worms and rocks will increase with your score!
+
+Download the Game Boy ROM file [here](bin/HungryBirds.gb).
