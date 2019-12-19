@@ -13,3 +13,5 @@ You control three chicks using the A (worth 3 points), B (worth 2 points), and U
 Be careful as the speed of the worms and rocks will increase with your score!
 
 Download the Game Boy ROM file [here](bin/HungryBirds.gb).
+
+To compile the code you'll need [ZGB](https://github.com/Zal0/ZGB).
